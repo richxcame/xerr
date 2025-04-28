@@ -1,0 +1,15 @@
+- key: user_not_found
+  code: 404
+  default: User not found
+  expose: true
+  i18n:
+      en: User not found
+      es: Usuario no encontrado
+
+- key: unauthorized
+  code: 401
+  default: Unauthorized access
+  expose: true
+  i18n:
+      en: Unauthorized access
+      fr: Accès non autorisé
