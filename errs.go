@@ -1,4 +1,4 @@
-package main
+package xerr
 
 // Package errs provides a scalable, structured, multi-language-ready error handling system.
 var (
